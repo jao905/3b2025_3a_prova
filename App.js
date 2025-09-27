@@ -13,7 +13,7 @@ export default function App() {
       {/* Componente para exibir a imagem */}
      <Image
   style={styles.image}
- source={require('./assets/perfil.jpg')}// nada além disso
+ source={require('./assets/images.jpg')}// nada além disso
   contentFit="cover"
   transition={1000}
 />
